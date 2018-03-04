@@ -2,7 +2,7 @@
 docmongo
 ===========
 
-.. image:: https://pypip.in/v/docmongo/badge.png
+.. image:: https://img.shields.io/pypi/v/docmongo.svg
   :target: https://pypi.python.org/pypi/docmongo
 
 .. image:: https://secure.travis-ci.org/satoshun/docmongo.png
