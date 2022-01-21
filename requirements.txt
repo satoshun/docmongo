@@ -2,7 +2,7 @@ debug==0.2.1
 distribute
 execnet==1.1
 ipdb==0.7
-ipython==0.13.2
+ipython==7.16.3
 py==1.4.14
 pymongo==2.5.1
 docmongo==0.0.3
